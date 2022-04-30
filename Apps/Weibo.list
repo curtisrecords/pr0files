@@ -1,8 +1,10 @@
 # > Weibo
 DOMAIN-SUFFIX,sinanode.com,WEIBO
 DOMAIN-SUFFIX,sinajs.cn,WEIBO
-DOMAIN-SUFFIX,sinaimg.cn,WEIBO
 DOMAIN-SUFFIX,weibo.cn,WEIBO
 DOMAIN-SUFFIX,weibo.com,WEIBO
 DOMAIN-SUFFIX,sina.com.cn,WEIBO
 DOMAIN-SUFFIX,sina.cn,WEIBO
+
+# 注释规则
+# DOMAIN-SUFFIX,sinaimg.cn,WEIBO
