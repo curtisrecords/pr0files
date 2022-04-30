@@ -1,9 +1,4 @@
 # > Zhihu
-DOMAIN-SUFFIX,zhuanlan.zhihu.com,#ZHIHU
-DOMAIN-SUFFIX,pic1.zhimg.com,#ZHIHU
-DOMAIN-SUFFIX,pic2.zhimg.com,#ZHIHU
-DOMAIN-SUFFIX,pic3.zhimg.com,#ZHIHU
-DOMAIN-SUFFIX,www.zhihu.com,#ZHIHU
-DOMAIN-SUFFIX,unpkg.zhimg.com,#ZHIHU
-DOMAIN-SUFFIX,pica.zhimg.com,#ZHIHU
-DOMAIN-SUFFIX,static.zhihu.com,#ZHIHU
+DOMAIN-SUFFIX,zhihu.com,#ZHIHU
+DOMAIN-SUFFIX,zhimg.com,#ZHIHU
+DOMAIN-SUFFIX,zhimg.com,#ZHIHU
